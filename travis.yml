@@ -1,0 +1,9 @@
+language: c
+compiler:
+  - clang
+  - gcc
+script:
+    - make
+    - make input=input1.txt expect=output1.txt test
+    - make input=input2.txt expect=output2.txt test
+    - make input=input3.txt expect=output3.txt test
