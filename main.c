@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
 
     //##### だいたいここまで書き換える
 
-    // ファイルを閉じます
+    // ファイルを閉じる
     fclose(fp);
 
     return 0;
