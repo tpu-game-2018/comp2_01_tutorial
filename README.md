@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/t-kougei-comp-2018/tutorial.svg?branch=master)](https://travis-ci.org/t-kougei-comp-2018/tutorial)
+[![Build Status](https://travis-ci.org/takeyoshiw/tutorial.svg?branch=master)](https://travis-ci.org/takeyoshiw/tutorial)
 
 # 今回の問題
 
