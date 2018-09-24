@@ -4,7 +4,7 @@ int main(int argc, char *argv[])
 {
     char str[256];
     fgets(str, sizeof(str), stdin);
-    printf("%s\n", "XXXX");
+    printf("%s\n", argc);
 
     return 0;
 }
