@@ -4,8 +4,8 @@ int main(int argc, char *argv[])
 {
     char str[256];
     fgets(str, sizeof(str), stdin);
-    scanf("%s",str);
-    printf("%s\n", str);
+    scanf("%s\n",str);
+    printf("%s", str);
 
     return 0;
 }
