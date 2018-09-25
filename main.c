@@ -1,5 +1,5 @@
        #include <stdio.h>
-　      #inclide <stdlib.h>
+　      #include <stdlib.h>
 
 　      int main(int argc, char *argv[]) 
 　     {   
