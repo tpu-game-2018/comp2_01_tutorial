@@ -3,13 +3,13 @@
 
 　      int main(int argc, char *argv[]) 
 　     {   
-        FILE *fp
+        FILE *fp;
        char *filename = argv[1];
         if ((fp = fopen(filename,"r")) == NULL){
        fprint(stderr,"Failed to open %s.\n",filename);
             exit(EXIT_FAILURE);
           }
-         char str［２５６］
+         char str [256];
  
    　　　fgets(str,sizeof(str),fp);
         printf("%s\n,"XXXXX");
