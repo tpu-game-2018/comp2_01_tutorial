@@ -1,10 +1,12 @@
-#include <stdio.h>
+#include<stdio.h>
 
-int main(int argc, char *argv[]) 
+int main(int argc, chsr *argv[])
 {
-    char str[256];
-    fgets(str, sizeof(str), stdin);
-    printf("%s\n", "XXXXX");
-
+    char str[256]
+        fgets(str,sizeof(str),stdin);
+    
+    printf("\n\n\n出力↓\n");
+    printf("%s\n",str);
+    
     return 0;
 }
