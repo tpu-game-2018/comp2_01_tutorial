@@ -16,7 +16,7 @@
 
 # テスト結果
 
-[![Build Status](https://travis-ci.org/chieri611/tutorial.svg?branch=master)](https://travis-ci.org/chieri611/tutorial
+[![Build Status](https://travis-ci.org/chieri611/tutorial.svg?branch=master)](https://travis-ci.org/chieri611/tutorial)
 
 # 今回の問題
 
